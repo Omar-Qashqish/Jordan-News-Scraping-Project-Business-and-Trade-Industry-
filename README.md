@@ -7,6 +7,8 @@ This project contains a Python script designed to scrape articles related to Bus
 - **Content**: A brief summary or full text of the article.
 - **Image**: Link to the article's associated image.
 - **Link**: Direct link to the full article.
+- ✅ The script also downloads each article's image and saves it into a local folder.
+
 
 ## 📄 Sections Targeted:
 - Business Section

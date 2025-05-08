@@ -27,6 +27,3 @@ This project contains a Python script designed to scrape articles related to Bus
 - Structured DataFrame
 - Saved Excel File (`.xlsx`)
 - Inserted records into SQL Server database
-
-## 🚀 Current Status
-- This project is actively maintained and will continue to be enhanced with better data cleaning, error handling, and scraping automation.
